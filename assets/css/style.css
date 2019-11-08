@@ -7,6 +7,7 @@ body {
     padding: 0px;
 }
 
+/* Using flex to arrange elements horizontally obtained from [https://css-tricks.com/snippets/css/a-guide-to-flexbox/] */
 .header {
     display: flex;
     border-bottom: 2px solid #cccccc;
